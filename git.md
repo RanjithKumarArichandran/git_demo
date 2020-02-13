@@ -24,3 +24,8 @@
     7. git config --global user.email "you@example.com"
 
 > register user name for commit
+
+    8. git pull origin master
+
+> pulling master branch code
+
